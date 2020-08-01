@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "istream": "cpp",
+        "iostream": "cpp",
+        "random": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "python.pythonPath": ".venv\\Scripts\\python.exe",
+    "editor.fontFamily": "'Jetbrains Mono', monospace"
+}
